@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @NoTimeTim
-- 👀 I’m interested in programming, playing violin
-- 🌱 I’m currently learning C#
-- 📫 How to reach me t.runow@gmx.de
-- 😄 Pronouns: he/him
